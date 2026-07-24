@@ -15,9 +15,9 @@
 
 ### 🚀 O que eu faço
 
-- 📊 Sou analista de dados, trabalho com SQL, Python e Power BI para transformar dado bruto em decisão
-- 🏗️ Construo sistemas web completos com **Next.js, TypeScript e Supabase**, de landing pages a plataformas de gestão (catálogo, estoque, financeiro, CRM)
-- 🛒 Já entreguei e-commerces, sistemas de agendamento via WhatsApp, dashboards operacionais e sites institucionais para clientes reais
+- 📊 Analista de dados de formação: comecei com SQL avançado (Alura), Python e dashboards em Power BI e Google Data Studio
+- 🏗️ Hoje boa parte do meu trabalho é construir os próprios painéis que um analista usaria: dashboards de faturamento, fluxo de estoque e financeiro dentro de sistemas que eu mesmo desenvolvo em **Next.js, TypeScript e Supabase**
+- 🛒 Já entreguei e-commerces, sistemas de agendamento via WhatsApp, plataformas de gestão (catálogo, estoque, pedidos, financeiro) e sites institucionais para clientes reais
 - 🌱 Aprofundando em arquitetura multi-tenant, automações com agentes de IA e integrações via MCP
 - 🤝 Aberto a colaborar em projetos com Supabase, Postgres e automação de processos
 - 🌎 Formado em Relações Internacionais, falo 5 idiomas e trago essa visão para produto e comunicação com cliente
@@ -46,6 +46,13 @@
 - **[Acalanto Tours](https://github.com/bloodyu2/acalanto-tours)**: plataforma de turismo com agente de vendas e catálogo de passeios
 - **[Vive Gostoso](https://github.com/bloodyu2/vive-gostoso)**: sistema operacional digital de São Miguel do Gostoso (RN)
 - **[Balaio Digital](https://www.balaio.net)**: plataforma de gestão para pequenos negócios, com catálogo, estoque, pedidos, financeiro e planejamento
+
+### 📈 Dados & BI
+
+- **[SQL-Alura](https://github.com/bloodyu2/SQL-Alura)**: projeto final do curso de SQL avançado da Alura
+- **[SQL Murder Mystery](https://github.com/bloodyu2/SQL--Murder-Mystery)**: resolução do case clássico de investigação com SQL
+- **[Google Data Studio - Projetos de BI](https://github.com/bloodyu2/Google-DataStudio---Projetos-de-BI)**: dashboards de visualização de dados
+- **[PyTrends](https://github.com/bloodyu2/PyTrends)**: automação em Python para coleta de dados de tendências
 
 ---
 
