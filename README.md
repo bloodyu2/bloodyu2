@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou o Victor 👋</h1>
 
 <p align="center">
-  Desenvolvedor full-stack construindo produtos web sob medida — do site ao painel de gestão.
+  Desenvolvedor full-stack construindo produtos web sob medida, do site ao painel de gestão.
 </p>
 
 <p align="center">
@@ -14,12 +14,12 @@
 
 ### 🚀 O que eu faço
 
-- 🏗️ Construo sistemas web completos com **Next.js, TypeScript e Supabase** — de landing pages a plataformas de gestão (catálogo, estoque, financeiro, CRM)
+- 🏗️ Construo sistemas web completos com **Next.js, TypeScript e Supabase**, de landing pages a plataformas de gestão (catálogo, estoque, financeiro, CRM)
 - 🛒 Já entreguei e-commerces, sistemas de agendamento via WhatsApp, dashboards operacionais e sites institucionais para clientes reais
 - 🌱 Aprofundando em arquitetura multi-tenant, automações com agentes de IA e integrações via MCP
 - 🤝 Aberto a colaborar em projetos com Supabase, Postgres e automação de processos
 - 💬 Pode me perguntar sobre Next.js, TypeScript, Supabase, SQL, Python e Power BI
-- 🌎 Formado em Relações Internacionais, falo 5 idiomas — trago essa visão para produto e comunicação com cliente
+- 🌎 Formado em Relações Internacionais, falo 5 idiomas e trago essa visão para produto e comunicação com cliente
 
 ---
 
@@ -41,9 +41,9 @@
 
 ### 📌 Alguns projetos
 
-- **[Acalanto Tours](https://github.com/bloodyu2/acalanto-tours)** — plataforma de turismo com agente de vendas e catálogo de passeios
-- **[Vive Gostoso](https://github.com/bloodyu2/vive-gostoso)** — sistema operacional digital de São Miguel do Gostoso (RN)
-- **Balaio Digital** — plataforma de gestão para pequenos negócios: catálogo, estoque, pedidos, financeiro e planejamento
+- **[Acalanto Tours](https://github.com/bloodyu2/acalanto-tours)**: plataforma de turismo com agente de vendas e catálogo de passeios
+- **[Vive Gostoso](https://github.com/bloodyu2/vive-gostoso)**: sistema operacional digital de São Miguel do Gostoso (RN)
+- **Balaio Digital**: plataforma de gestão para pequenos negócios, com catálogo, estoque, pedidos, financeiro e planejamento
 
 ---
 
